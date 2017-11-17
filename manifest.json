@@ -1,13 +1,9 @@
 {
     "manifest_version": 2,
-    "applications": {
-        "gecko": {
-            "id": "qrbot@arborisfolium.com"
-        }
-    },
     "name": "QRBot",
     "version": "1.0",
     "description": "Offline QR code generator",
+    "author": "Kevin R",
     "homepage_url": "https://github.com/squidpickles/qrbot",
     "icons": {
         "48": "icons/icon-48.png",
