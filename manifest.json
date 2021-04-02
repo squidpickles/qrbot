@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "QRBot",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Offline QR code generator",
     "author": "Kevin R",
     "homepage_url": "https://github.com/squidpickles/qrbot",
